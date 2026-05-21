@@ -3,6 +3,7 @@ name: Build the app docker image
 
 on:
   push:
+  workflow_dispatch:
 
 jobs:
   versioning:
