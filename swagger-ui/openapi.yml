@@ -76,4 +76,4 @@ components:
           example: "Felix"
     CatId:
       type: string
-      format: string, uid
+      format: uuid
